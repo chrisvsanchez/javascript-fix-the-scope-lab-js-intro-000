@@ -1,7 +1,7 @@
-var animal = 'dog'
+var animal = 'cat'
 
 function myAnimal() {
-  var animal = 'cat';
+var animal = 'dog'
   // You should not need to modify this function
   return animal
 }
